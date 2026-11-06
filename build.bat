@@ -1,0 +1,1 @@
+nasm -f bin src\mario.asm -o MARIO.COM
